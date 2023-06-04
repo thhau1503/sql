@@ -1,0 +1,32 @@
+E:\ĐỒ ÁN HỆ QUẢN TRỊ\QL_DoiBong\bin\Debug\QL_DoiBong.exe.config
+E:\ĐỒ ÁN HỆ QUẢN TRỊ\QL_DoiBong\bin\Debug\QL_DoiBong.exe
+E:\ĐỒ ÁN HỆ QUẢN TRỊ\QL_DoiBong\bin\Debug\QL_DoiBong.pdb
+E:\ĐỒ ÁN HỆ QUẢN TRỊ\QL_DoiBong\obj\Debug\QL_DoiBong.csproj.AssemblyReference.cache
+E:\ĐỒ ÁN HỆ QUẢN TRỊ\QL_DoiBong\obj\Debug\QL_DoiBong.Properties.Resources.resources
+E:\ĐỒ ÁN HỆ QUẢN TRỊ\QL_DoiBong\obj\Debug\QL_DoiBong.csproj.GenerateResource.cache
+E:\ĐỒ ÁN HỆ QUẢN TRỊ\QL_DoiBong\obj\Debug\QL_DoiBong.csproj.CoreCompileInputs.cache
+E:\ĐỒ ÁN HỆ QUẢN TRỊ\QL_DoiBong\obj\Debug\QL_DoiBong.exe
+E:\ĐỒ ÁN HỆ QUẢN TRỊ\QL_DoiBong\obj\Debug\QL_DoiBong.pdb
+E:\ĐỒ ÁN HỆ QUẢN TRỊ\QL_DoiBong\obj\Debug\QL_DoiBong.User.resources
+E:\ĐỒ ÁN HỆ QUẢN TRỊ\QL_DoiBong\obj\Debug\QL_DoiBong.DatVe.resources
+E:\ĐỒ ÁN HỆ QUẢN TRỊ\QL_DoiBong\obj\Debug\QL_DoiBong.DangNhap.resources
+E:\ĐỒ ÁN HỆ QUẢN TRỊ\QL_DoiBong\obj\Debug\QL_DoiBong.Admin.resources
+E:\ĐỒ ÁN HỆ QUẢN TRỊ\QL_DoiBong\obj\Debug\QL_DoiBong.AddPlayer.resources
+E:\DoAnCuoiKi_Nhom06\QL_DoiBong\bin\Debug\QL_DoiBong.exe.config
+E:\DoAnCuoiKi_Nhom06\QL_DoiBong\bin\Debug\QL_DoiBong.exe
+E:\DoAnCuoiKi_Nhom06\QL_DoiBong\bin\Debug\QL_DoiBong.pdb
+E:\DoAnCuoiKi_Nhom06\QL_DoiBong\obj\Debug\QL_DoiBong.csproj.AssemblyReference.cache
+E:\DoAnCuoiKi_Nhom06\QL_DoiBong\obj\Debug\QL_DoiBong.AddPlayer.resources
+E:\DoAnCuoiKi_Nhom06\QL_DoiBong\obj\Debug\QL_DoiBong.Admin.resources
+E:\DoAnCuoiKi_Nhom06\QL_DoiBong\obj\Debug\QL_DoiBong.DatVe.resources
+E:\DoAnCuoiKi_Nhom06\QL_DoiBong\obj\Debug\QL_DoiBong.DangNhap.resources
+E:\DoAnCuoiKi_Nhom06\QL_DoiBong\obj\Debug\QL_DoiBong.Properties.Resources.resources
+E:\DoAnCuoiKi_Nhom06\QL_DoiBong\obj\Debug\QL_DoiBong.User.resources
+E:\DoAnCuoiKi_Nhom06\QL_DoiBong\obj\Debug\QL_DoiBong.csproj.GenerateResource.cache
+E:\DoAnCuoiKi_Nhom06\QL_DoiBong\obj\Debug\QL_DoiBong.csproj.CoreCompileInputs.cache
+E:\DoAnCuoiKi_Nhom06\QL_DoiBong\obj\Debug\QL_DoiBong.exe
+E:\DoAnCuoiKi_Nhom06\QL_DoiBong\obj\Debug\QL_DoiBong.pdb
+E:\DoAnCuoiKi_Nhom06\QL_DoiBong\obj\Debug\QL_DoiBong.AddTick.resources
+E:\DoAnCuoiKi_Nhom06\QL_DoiBong\obj\Debug\QL_DoiBong.ThongTinUser.resources
+E:\DoAnCuoiKi_Nhom06\QL_DoiBong\obj\Debug\QL_DoiBong.UpdateTiSo.resources
+E:\DoAnCuoiKi_Nhom06\QL_DoiBong\obj\Debug\QL_DoiBong.LuongTB.resources
